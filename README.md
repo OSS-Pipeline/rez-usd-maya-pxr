@@ -1,4 +1,4 @@
-rez-usd-maya
+rez-usd-maya-pxr
 ===
 
-Rez build configuration for Pixar USD&#39;s Maya plugin.
+Rez build configuration for Pixar USD's Maya plugin.
